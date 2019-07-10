@@ -7,8 +7,58 @@ padding:0;
 h2 { 
     background-color: yellow; 
     padding: 10px;
+}
 
-{ 
+header  { 
+     padding-top: 10px; 
+     background-image: url("http://uclaadmissions.files.wordpress.com/2011/05/image2_ed.jpg");
+     background-size: cover;
+     background-position:bottom;
+    }
+    .slide {
+        height: 75vh;
+        background-color: pink;
+        border: 1px solid white;
+        margin:10px;
+        padding: 20px;
+        display: flex;
+        align-items: centre;
+        justify-content: center;
+    }
+        #my-profile-pic {
+        background-image: url(https://akm-img-a-in.tosshub.com/indiatoday/images/story/201512/neil-patrick-harris-story_647_121115052131.jpg);
+        height: 100%;
+        width: 30%;
+    }
+    #my-profile-details {
+    background-color: red ;
+    width: 100px;
 
-nav a { 
-    { 
+
+}
+
+
+
+         #Random-Photo {
+             background-image: url(https://footballtripper.com/wp-content/uploads/2014/08/stubhub-center-california.jpg);
+             height:70%;
+             width: 100%;
+            }
+
+
+        
+        
+
+
+
+
+
+    
+
+    div h1  {
+    color: purple;
+    font-size: 2.5em;
+}
+    #about  {
+        background-color: lightblue;
+    }
